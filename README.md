@@ -1,4 +1,4 @@
-# Unique-Song-Fingerprint
+# Unique Song Fingerprint
 Creates unique 3D hypotrochoid animations and HTML objects from scraped Spotify songs. 
 Calming songs get blue-green colour, high energy songs get violet-red colour, intermediate energy songs get yellow-orange colour hypotrochoids respectively. 
 
